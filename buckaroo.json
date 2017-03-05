@@ -1,0 +1,12 @@
+{
+  "name": "boost-format",
+  "dependencies": {
+    "boost-detail": "1.63.0",
+    "boost-config": "1.63.0",
+    "boost-throw-exception": "1.63.0",
+    "boost-assert": "1.63.0",
+    "boost-optional": "1.63.0",
+    "boost-utility": "1.63.0",
+    "boost-smart-ptr": "1.63.0"
+  }
+}
